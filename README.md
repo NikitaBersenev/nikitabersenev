@@ -15,15 +15,18 @@
     </div>
   </center> -->
 
-
   <center>
     <h1 align="center">~ 👨‍💻 My Languages & Tools 👨‍💻 ~</h1>
-    <br><a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img
+    <br>
+    <div align="center">
+
+    <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="70"
     height="70" /> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"
     alt="cplusplus" width="70" height="70" /> </a> <a href="https://www.w3schools.com/css/" target="_blank"
-  rel="noreferrer"> <img
+
+rel="noreferrer"> <img
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3"
     width="70" height="70" /> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"
@@ -70,8 +73,9 @@
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis"
     width="70" height="70" /> </a>
 
-  </center>
+</div>
 
+  </center>
 
 <!--
 
@@ -95,12 +99,7 @@
  ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NikitaBersenev&theme=github_dark) </p>
   </center>
 
-
-
-
 </body>
-
-
 
 <!--
 ### Hi there 👋
