@@ -22,7 +22,7 @@
 
 
 
-[![My Skills](https://skillicons.dev/icons?i=anaconda, androidstudio, angular, arch, atom, babel, bash, bitbucket, bootstrap, bun, c, cpp, clion, cmake, css, dart, debian, deno, docker, elasticsearch, emacs, figma, flutter, git, github, githubactions, gitlab, go, grafana, graphql, gulp, html, htmx, js, jquery, kafka, kubernetes, latex, less, linux, mongodb, mysql, neovim, nginx, php, phpstorm, postgres, postman, powershell, prometheus, pug, py, rabbitmq, redis, regex, ubuntu, vim, vscode)](https://skillicons.dev)
+[![MySkills](https://skillicons.dev/icons?i=go,linux,bash,postgres,mongodb,mysql,git,anaconda,androidstudio,angular,arch,atom,babel,bitbucket,bootstrap,bun,c,cpp,clion,cmake,css,dart,debian,deno,docker,elasticsearch,emacs,figma,flutter,github,githubactions,gitlab,grafana,graphql,gulp,html,htmx,js,jquery,kafka,kubernetes,latex,less,neovim,nginx,php,phpstorm,postman,powershell,prometheus,pug,py,rabbitmq,redis,regex,ubuntu,vim,vscode)](https://skillicons.dev)
 
 <!-- -->
 <!-- ableton, -->
