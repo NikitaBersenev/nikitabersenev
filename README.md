@@ -2,7 +2,7 @@
 <body>
   <center >
       <a href="https://egirl.ing/">
-        <img src="https://readme-typing-svg.demolab.com?    font=Inconsolata&weight=500&size=70&duration=4000&pause=300&color=40c463&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1300&height=180&lines=Hello+hello;I'm+Nikita Bersenev" width="100%" />
+        <img src="https://readme-typing-svg.demolab.com?    font=Inconsolata&weight=500&size=70&duration=2000&pause=300&color=40c463&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1300&height=180&lines=Hello+hello;I'm+Nikita Bersenev" width="100%" />
       </a>
   </center>
   <br>
