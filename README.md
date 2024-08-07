@@ -29,6 +29,40 @@
 
   </center>
 
+
+
+
+
+
+
+
+
+  <center>
+    <h1 align="center">~ 📝 Contact Me 📝 ~</h1>
+    <br>
+
+
+<p align="center">
+
+  <a href="https://t.me/lewyngal" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
+  </a>
+  <a href="mailto:nik.bersenev0@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="25" alt="telegram logo"  />
+  </a>
+  <a href="mailto:thctyd@bk.ru" target="_blank">
+    <img src="https://img.shields.io/badge/-Mail.Ru-005FF9?style=for-the-badge&logo=maildotru&logoColor=white" height="25" alt="telegram logo"  />
+  </a>
+  <!-- <a href="https://t.me/lewyngal" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=VKontakte&logo=vk&label=&color=0077ff&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="vkvkontakte logo"  />
+  </a> -->
+
+</p>
+
+
+
+  </center>
+
 <!--
 
   <center>
@@ -45,8 +79,8 @@
     <h1 align="center">~ 📊 Github Statistics 📊 ~</h1>
     <br>
     <div align="center">
-    <p align="left">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NikitaBersenev&theme=github_dark"></img> </p>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NikitaBersenev&theme=github_dark"></img>
+    </div>
   </center>
 
 </body>
