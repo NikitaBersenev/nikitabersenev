@@ -21,7 +21,7 @@
     <h1 align="center">~ 👨‍💻 My Languages & Tools 👨‍💻 ~</h1>
     <br> <div align="center">
 
-      
+      <pre>
 <table><tr><td valign="top" width="33%">
 
 
@@ -75,7 +75,7 @@
 </div>
 
 </td></tr></table>  
-
+</pre>
 <!--    
       <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="70"
