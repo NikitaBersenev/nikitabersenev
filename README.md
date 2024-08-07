@@ -42,14 +42,12 @@
 
   <br>
   <br>
-  <br>
-  <br>
   <center>
     <h1 align="center">~ 📊 Github Statistics 📊 ~</h1>
     <br>
     <div align="center">
     <p align="left">
- ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NikitaBersenev&theme=github_dark) </p>
+<a href="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NikitaBersenev&theme=github_dark"></a> </p>
   </center>
 
 </body>
