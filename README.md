@@ -47,7 +47,7 @@
     <br>
     <div align="center">
     <p align="left">
-<a href="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NikitaBersenev&theme=github_dark"></a> </p>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NikitaBersenev&theme=github_dark"></img> </p>
   </center>
 
 </body>
