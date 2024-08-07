@@ -21,8 +21,11 @@
     <div align="center">
 
 
-
-[![MySkills](https://skillicons.dev/icons?i=go,linux,bash,postgres,mongodb,mysql,git,anaconda,androidstudio,angular,arch,atom,babel,bitbucket,bootstrap,bun,c,cpp,clion,cmake,css,dart,debian,deno,docker,elasticsearch,emacs,figma,flutter,github,githubactions,gitlab,grafana,graphql,gulp,html,htmx,js,jquery,kafka,kubernetes,latex,less,neovim,nginx,php,phpstorm,postman,powershell,prometheus,pug,py,rabbitmq,redis,regex,ubuntu,vim,vscode&perline=9)](https://skillicons.dev)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=go,linux,bash,postgres,mongodb,mysql,git,anaconda,androidstudio,angular,arch,atom,babel,bitbucket,bootstrap,bun,c,cpp,clion,cmake,css,dart,debian,deno,docker,elasticsearch,emacs,figma,flutter,github,githubactions,gitlab,grafana,graphql,gulp,html,htmx,js,jquery,kafka,kubernetes,latex,less,neovim,nginx,php,phpstorm,postman,powershell,prometheus,pug,py,rabbitmq,redis,regex,ubuntu,vim,vscode&perline=9" />
+  </a>
+</p>
 
 <!-- -->
 <!-- ableton, -->
