@@ -1,10 +1,9 @@
-
 <body>
   <center >
         <img src="https://readme-typing-svg.demolab.com?    font=Inconsolata&weight=500&size=70&duration=2000&pause=300&color=40c463&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1300&height=170&lines=Hello+hello;I'm+Nikita Bersenev" width="100%" />
   </center>
   <br>
-  <br> 
+  <br>
 <!--   <center>
     <h1 align="center">~ 💬 About Me 💬 ~</h1>
     <br>
@@ -16,11 +15,10 @@
     </div>
   </center> -->
 
-  
+
   <center>
     <h1 align="center">~ 👨‍💻 My Languages & Tools 👨‍💻 ~</h1>
-    <br>
-    <div align="center"><a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img
+    <br><a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="70"
     height="70" /> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"
@@ -76,7 +74,7 @@
 
 
 <!--
-  
+
   <center>
     <h1 align="center">~ 👨‍💻 My Languages & Tools 👨‍💻 ~</h1>
     <br>
@@ -84,7 +82,7 @@
     <p align="left">  </p>
   </center>
 -->
-  
+
   <br>
   <br>
   <br>
@@ -93,17 +91,17 @@
     <h1 align="center">~ 📊 Github Statistics 📊 ~</h1>
     <br>
     <div align="center">
-    <p align="left">  
+    <p align="left">
  ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NikitaBersenev&theme=github_dark) </p>
   </center>
 
-  
 
-  
+
+
 </body>
 
 
- 
+
 <!--
 ### Hi there 👋
 
