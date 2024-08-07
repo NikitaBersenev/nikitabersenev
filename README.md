@@ -19,7 +19,7 @@
   
   <center>
     <h1 align="center">~ 👨‍💻 My Languages & Tools 👨‍💻 ~</h1>
-    <br> <div align="center">
+    <br> <div>
 
 <pre> 
 
