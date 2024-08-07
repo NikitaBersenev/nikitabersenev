@@ -19,9 +19,8 @@
   
   <center>
     <h1 align="center">~ 👨‍💻 My Languages & Tools 👨‍💻 ~</h1>
-    <br> <div>
+    <br> <div style="background-color:#161b22;">
 
-<pre> 
 
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
 <a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
